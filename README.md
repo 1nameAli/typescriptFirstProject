@@ -1,0 +1,2 @@
+# typescriptFirstProject
+A Simple calculator
